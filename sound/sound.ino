@@ -6,8 +6,8 @@ void setup() {
 
 void loop() {
   digitalWrite(soundPin, HIGH);
-  delay(100);
+  delay(150);
   digitalWrite(soundPin, LOW);
-  delay(1000);
+  delay(2000);
 }
 
